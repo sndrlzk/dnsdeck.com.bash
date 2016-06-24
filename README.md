@@ -1,2 +1,2 @@
 # dnsdeck.net.bash
-Primitive bash script for my DDNS service (dnsdeck.net)
+Primitive bash script for my DDNS service (dnsdeck.com)
